@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/grid-demo/static/css/main.17ce468c.chunk.css",
+    "main.js": "/grid-demo/static/js/main.8faba6f8.chunk.js",
+    "main.js.map": "/grid-demo/static/js/main.8faba6f8.chunk.js.map",
+    "runtime-main.js": "/grid-demo/static/js/runtime-main.5378a11e.js",
+    "runtime-main.js.map": "/grid-demo/static/js/runtime-main.5378a11e.js.map",
+    "static/css/2.aeffbd26.chunk.css": "/grid-demo/static/css/2.aeffbd26.chunk.css",
+    "static/js/2.788035f1.chunk.js": "/grid-demo/static/js/2.788035f1.chunk.js",
+    "static/js/2.788035f1.chunk.js.map": "/grid-demo/static/js/2.788035f1.chunk.js.map",
+    "static/js/3.575a2bf3.chunk.js": "/grid-demo/static/js/3.575a2bf3.chunk.js",
+    "static/js/3.575a2bf3.chunk.js.map": "/grid-demo/static/js/3.575a2bf3.chunk.js.map",
+    "index.html": "/grid-demo/index.html",
+    "static/css/2.aeffbd26.chunk.css.map": "/grid-demo/static/css/2.aeffbd26.chunk.css.map",
+    "static/css/main.17ce468c.chunk.css.map": "/grid-demo/static/css/main.17ce468c.chunk.css.map",
+    "static/js/2.788035f1.chunk.js.LICENSE.txt": "/grid-demo/static/js/2.788035f1.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/grid-demo/static/media/primeicons.e61f3495.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5378a11e.js",
+    "static/css/2.aeffbd26.chunk.css",
+    "static/js/2.788035f1.chunk.js",
+    "static/css/main.17ce468c.chunk.css",
+    "static/js/main.8faba6f8.chunk.js"
+  ]
+}
